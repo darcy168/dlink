@@ -33,3 +33,5 @@ dlink-web/node/*
 dlink-web/dist/*
 dlink-admin/src/main/resources/static/*
 dependency-reduced-pom.xml
+node_modules
+package-lock.json
